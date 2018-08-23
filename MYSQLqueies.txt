@@ -1,0 +1,7 @@
+1 use databases;    /*to show all the databses present in system. 
+2 use database name;   /*to use your database.
+3 show tables;   /*to open the tables in your databse.
+4 select * from tablename;   /*to show the content of table.
+5. delete from tablename where column='xyz';   /*to delete a row from the table.
+6. insert into registration values('kashish','ahjnkl','kashish','sharma','kashish@gmail.com',9001385043,'user');stopagerailways
+pdate update registration set address='ranibagh' where Username='Admin';  /*to insert values in table
